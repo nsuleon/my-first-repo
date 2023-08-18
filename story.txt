@@ -1,0 +1,4 @@
+var_1 = "36 People Woring in project 202"
+var_2 = "10 truck required to complete"
+output = var_1 + ". Which required " + var_2
+print(output)
